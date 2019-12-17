@@ -1,5 +1,5 @@
 ### Site Settings ###
-title: livdevan's blog
+title: An Angular and .Net Developer
 description: >- # >- means to ignore newlines until "url:"
   "I turn coffee :coffee: into code,
   use tabs over spaces
@@ -18,11 +18,11 @@ author:
   # dribbble          : your_username
   email: username@domain.com
   #  facebook          : your_username
-  github: your_username
+  github: livdevan
   # gitlab            : your_username
   # instagram         : your_username
   linkedin: your_username
-  medium: your_username
+  medium: livdevan
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
